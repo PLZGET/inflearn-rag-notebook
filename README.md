@@ -1,3 +1,6 @@
+## This project is based on the original materials from the Inflearn course: "강의명" by 강사명.  
+## Used for personal study purposes.
+
 # RAG를 활용한 LLM Application 개발 (feat. LangChain)
 
 ## 프로젝트 요약
